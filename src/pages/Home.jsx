@@ -1,6 +1,6 @@
 import cvFile from "../assets/CV.pdf";
-import profileImage from "../assets/image/12.png";
-import profile from "../assets/image/10.png";
+import profileImage from "../assets/image/home.png";
+import profile from "../assets/image/Alex.png";
 import bg from "../assets/home.png";
 
 function Home() {
